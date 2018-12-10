@@ -1,4 +1,4 @@
-#include "pch.h"
+
 #include"Trans.h"
 int si(string s1)//字符型改整型 122
 {

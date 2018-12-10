@@ -1,4 +1,4 @@
-#include "pch.h"
+
 #include"Delete.h"
 #include"dijkstra.h"
 #include"File.h"

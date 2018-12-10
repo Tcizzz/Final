@@ -1,4 +1,4 @@
-#include "pch.h"
+
 #include"print.h"
 void sc()
 {
