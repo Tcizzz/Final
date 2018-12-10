@@ -3,7 +3,7 @@
 
 void del()//rrrr
 {
-	cout << "chenxin" << endl;
+	cout << "chenxing" << endl;
 	int n3 = 0;
 	cout << "删除哪一部分：1.点；2.边 " << endl;
 	cout << "请输入你要执行的操作：" << endl;
