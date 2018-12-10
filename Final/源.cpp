@@ -6,6 +6,7 @@
 #include"Trans.h"
 #include"Add.h"
 #include <cstdlib>
+
 using namespace std;
 int xia[100][100];//ÏÂÒ»Ìø  
 int map[100][100];//´æ´¢Í¼

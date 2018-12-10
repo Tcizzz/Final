@@ -1,5 +1,6 @@
 #include "pch.h"
 #include"dijkstra.h"
+
 void dijkstra(int u)//参数是源点编号
 {
 	int t = 0;

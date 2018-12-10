@@ -1,5 +1,6 @@
 #include "pch.h"
 #include"File.h"
+
 void wj() // 从文件读入数据
 {
 

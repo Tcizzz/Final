@@ -1,5 +1,6 @@
 #include "pch.h"
 #include"Delete.h"
+
 void del()//rrrr
 {
 	int n3 = 0;
